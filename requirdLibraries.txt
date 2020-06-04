@@ -1,0 +1,5 @@
+
+################################## Requirements ####################################
+
+The following libraries and tools are employed in this script and should be installed on your machine before running the code:
+getopt, pandas, csv, scipy, numpy
